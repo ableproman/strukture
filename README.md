@@ -5,7 +5,7 @@
 Strukture is an advanced, client-side utility designed for software architects and developers.  
 It transforms conceptual project hierarchies into documentation-grade ASCII trees, physical folder structures, and high-resolution visuals.
 
-[Open the Application](https://strukture.ableproman.hu) • [Source Code](https://github.com/ableproman/strukture/index.html)
+[Open the Application](https://strukture.ableproman.hu) • [Source Code](https://github.com/ableproman/strukture/blob/main/index.html)
 
 ---
 
