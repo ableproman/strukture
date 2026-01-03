@@ -1,4 +1,4 @@
-# 🏗️ Strukture
+# Strukture
 
 **The Professional Suite for Architectural Visualization & File Documentation**
 
@@ -9,7 +9,7 @@ It transforms conceptual project hierarchies into documentation-grade ASCII tree
 
 ---
 
-## 🚀 The Vision
+## The Vision
 
 In modern software development, clarity is currency. Manually typing out file hierarchies for GitHub READMEs, technical blogs, or onboarding wikis is a repetitive, error-prone task that scales poorly.
 
@@ -17,9 +17,9 @@ Strukture eliminates this friction. It provides a real-time, bidirectional envir
 
 ---
 
-## ✨ Enterprise-Grade Features
+## Enterprise-Grade Features
 
-### 🪄 The "Magic Three" Refactor Engine
+### The "Magic Three" Refactor Engine
 
 One click to perfection. Our internal engine handles the heavy lifting of directory hygiene:
 
@@ -34,7 +34,7 @@ One click to perfection. Our internal engine handles the heavy lifting of direct
 
 ---
 
-### 🤖 Gemini AI Architect (BYOK)
+### Gemini AI Architect (BYOK)
 
 Bring your own Google Gemini API key to unlock a built-in architectural consultant:
 
@@ -46,19 +46,19 @@ Bring your own Google Gemini API key to unlock a built-in architectural consulta
 
 ---
 
-### 🛠️ The Bootstrapper (Physical Exports)
+### The Bootstrapper (Physical Exports)
 
 We go beyond simple text visualization. Use Strukture to actually start your project:
 
-- 📁 **ZIP Bootstrapper**  
+- **ZIP Bootstrapper**  
   Download a physical archive containing the empty directory structure you designed. Unzip and start coding immediately.
 
-- 💻 **CLI Command Generator**  
+- **CLI Command Generator**  
   Generates a single, optimized shell command for Bash/Zsh or PowerShell to recreate the tree on your local disk using `mkdir` and `touch`.
 
 ---
 
-### 🖼️ Documentation-Ready Visuals
+### Documentation-Ready Visuals
 
 - **High-Res PNG**  
   Capture your tree as a polished image for social media, Jira tickets, or pitch decks.
@@ -71,7 +71,7 @@ We go beyond simple text visualization. Use Strukture to actually start your pro
 
 ---
 
-### 🔍 Validation & Navigation
+### Validation & Navigation
 
 - **Real-Time Guardrails**  
   Alerts you if a file is mistakenly used as a parent directory or if naming conflicts occur within the same scope.
@@ -87,7 +87,7 @@ We go beyond simple text visualization. Use Strukture to actually start your pro
 
 ---
 
-### 🎨 Design & Experience
+### Design & Experience
 
 - **Multi-Style Connector Logic**  
   Switch between Round, Modern, Classic, or Minimal ASCII styles to match your project's branding.
@@ -100,7 +100,7 @@ We go beyond simple text visualization. Use Strukture to actually start your pro
 
 ---
 
-## 💻 Local Development
+## Local Development
 
 Strukture is built to be *forever-green* — no frameworks, no build steps, no dependencies.
 
